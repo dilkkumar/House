@@ -1,0 +1,7 @@
+flask
+pymongo[srv]
+python-dotenv
+joblib
+numpy
+scikit-learn
+werkzeug
